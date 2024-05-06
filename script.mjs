@@ -75,4 +75,5 @@ const totalDeistance = 1500;
 
 // const milesConsumed = totalDistance / 
 
+// This one I ca not figure out at all. In terms of programming it. It is very tricky to think how to create a program to run this for me. Seems like you have to know javascript really well to be able to create a program to solve this. Give me a pen and paper and I can solve it possibly. But to transfer from paper to a program is tough.
 // Part 3 -------------------------------------------------------------------------
